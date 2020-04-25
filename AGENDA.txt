@@ -1,0 +1,13 @@
+﻿AGENDA:
+
+ - React mit TypeScript
+ - Kommunikation zwischen Komponenten
+ - React Hooks
+ - Testen Jest, Debuggung, DevTools
+ - Integration in bestehende Single-Page-Anwendung (ohne React oder ein anderes UI-Framework)
+eine ältere App
+
+If you’re building a component library or integrating with an existing codebase, try More Flexible Toolchains.
+https://reactjs.org/docs/create-a-new-react-app.html#more-flexible-toolchains
+
+
